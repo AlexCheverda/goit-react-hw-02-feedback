@@ -1,5 +1,5 @@
 import React from "react";
-import { components } from "react";
+// import { components } from "react";
 import Counter from "./Counter/Counter";
 
 const App = () => (
